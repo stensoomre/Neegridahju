@@ -1,0 +1,33 @@
+
+▒█▀▀█ ▒█░░░ ▒█▀▀▀█ ▒█▀▀█ 
+▒█▀▀▄ ▒█░░░ ▒█░░▒█ ▒█░▄▄ 
+▒█▄▄█ ▒█▄▄█ ▒█▄▄▄█ ▒█▄▄█
+
+╾╾╾╾╾╾╾╾╾╾
+11.11.2022
+╾╾╾╾╾╾╾╾╾╾
+Made the sidebar and moved it to the right side of every page.
+Also transfered the blog from the main page to the .txt file so I can modify one file and it will apply to every single existance of the viewable blog.
+
+IQ ikr
+
+
+╾╾╾╾╾╾╾╾╾╾
+10.11.2022
+╾╾╾╾╾╾╾╾╾╾
+I revisited some aspects of the website and tweaked some values of some code.
+
+
+╾╾╾╾╾╾╾╾╾╾
+17.10.2022 
+╾╾╾╾╾╾╾╾╾╾
+I finally made the website into awhole. Before it was just some parts there and somewhere else. 
+Now it's all connected so well that sometimes you can't tell that you are switching the files.
+
+
+╾╾╾╾╾╾╾╾╾╾
+10.10.2022
+╾╾╾╾╾╾╾╾╾╾
+The website idea was started. I made the index.html and begin coding taking one of my works as a template. 
+As I am pretty pro at coding and stuff, it was pretty easy. Until it wasen't ofc. 
+The original idea was made by me and RdoLmt when we were chatting in discord and I got a good idea to make cursed pictures of people, mainly about gynaecologists.
